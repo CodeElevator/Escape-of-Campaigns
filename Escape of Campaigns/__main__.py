@@ -5,22 +5,28 @@ import os
 import platform
 
 try:
-    conn = sqlite3.connect('Database/gamestats.db')
-    conn2 = sqlite3.connect('Database/player_data.db')
+    conn = sqlite3.connect('Database/player_data.db')
 except sqlite3.OperationalError:
     os.system('mkdir Database')
+    os.system('cd ./Database')
     if platform.system == 'Linux':
-        os.system('touch gamestats.db && touch player_data.db')
+        os.system('touch player_data.db')
     elif platform.system == 'Windows':
-        os.system('type nul > gamestast.db && type nul > player_data.db')
+        os.system('type nul > player_data.db')
+    else:
+        os.system('echo \'\' > player_data.db')
+    os.system('cd ..')
+    conn = sqlite3.connect('Database/player_data.db')
 
 cur = conn.cursor()
-cur2 = conn2.cursor()
-
-gamestats = """
-
-"""
 
 player_data = """
-
+    CREATE TABLE IF NOT EXISTS "pdata" (
+        "name" TEXT NOT NULL,
+        PRIMARY KEY("name")
+    );
 """
+
+cur.execute(player_data)
+conn.commit()
+cur.close()
