@@ -4,7 +4,7 @@ from Game import *
 from Game.game import *
 from sqlite3 import *
 
-__version__ = '1.0.0'
+__version__ = 'a1.0.0'
 __name__ = 'The Game'
 __authors__ = ['NomCustom', 'Bluer', 'Liamgen']
 __copyrights__ = '2022 NomCustom, Bluer, Liamgen. MIT License'
