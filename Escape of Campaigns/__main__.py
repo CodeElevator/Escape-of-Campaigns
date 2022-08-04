@@ -29,4 +29,3 @@ player_data = """
 
 cur.execute(player_data)
 conn.commit()
-cur.close()
