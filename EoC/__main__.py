@@ -2,7 +2,7 @@ from Game.game import Game
 from rich import *
 import sqlite3
 
-conn = sqlite3.connect('./database/player_data.db')
+conn = sqlite3.connect('player_data.db')
 cur = conn.cursor()
 
 player_data = """
@@ -12,6 +12,6 @@ player_data = """
         PRIMARY KEY("name")
     );
 """
-
+Game().menu()
 cur.execute(player_data)
 conn.commit()

@@ -3,7 +3,7 @@ from rich.console import Console
 import os
 import sqlite3
 
-conn = sqlite3.connect('./database/player_data.db')
+conn = sqlite3.connect('player_data.db')
 console = Console()
 
 class Game:
