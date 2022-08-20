@@ -1,7 +1,6 @@
 from rich import *
-from __main__ import *
-from Game import *
-from Game.game import *
+from .Game import *
+from .Game.game import *
 from sqlite3 import *
 
 __version__ = 'a1.0.0'
