@@ -1,1 +1,4 @@
-rich
+Minimun specs:
+
+Operating System: Linux Ubuntu 16.04 or older / Windows 7
+RAM: 2GB
