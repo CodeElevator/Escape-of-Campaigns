@@ -13,7 +13,7 @@
 Here're some of the project's best features:
 
 *   Advanced Textual RPG game
-*   A secured database so you can save your datas (obviously)
+*   A secured database so you can save your data
 
   
   
