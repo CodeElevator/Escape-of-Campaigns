@@ -29,6 +29,6 @@ Technologies used in the project:
 
 This project is licensed under the MIT license.
 
-<h2>💖Like our work?</h2>
+<h2>💖 Like our work?</h2>
 
-If you want to support us please join the discord:<p>https://discord.gg/dRywE6Bhya</p>
+Come and join us on Discord:<p>https://discord.gg/dRywE6Bhya</p>
