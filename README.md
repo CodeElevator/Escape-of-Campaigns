@@ -29,6 +29,17 @@ This project is licensed under the MIT license.
 
 <h2>💻 Computer requirements</h2>
 
+Minimun specs to run the game:
+
+Operating System: Linux Ubuntu 16.04 / Windows 7
+RAM: 2GB
+Processor: Intel Pentium 4 2.00GHz 
+
+Recommended specs:
+
+Operating System: Ubuntu 20.04 or older / Windows 10 or older
+RAM: 4GB or more
+Processor: Intel Core i3/i5 or older
 
 <h2>💖 Like our work?</h2>
 
