@@ -12,11 +12,9 @@
 
 Here're some of the project's best features:
 
-*   Advanced Textual RPG game
+*   Advanced Textual RPG/action-adventure game
 *   A secured database so you can save your data
 
-  
-  
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
@@ -25,9 +23,12 @@ Technologies used in the project:
 *   Rich
 *   SQLite3
 
-<h2>🛡️ License:</h2>
+<h2>🛡️ License</h2>
 
 This project is licensed under the MIT license.
+
+<h2 💻 Computer requirements</h2>
+
 
 <h2>💖 Like our work?</h2>
 
