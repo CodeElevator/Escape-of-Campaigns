@@ -10,7 +10,7 @@
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+Here are some of the project's best features:
 
 *   Advanced Textual RPG/action-adventure game
 *   A secured database so you can save your data
