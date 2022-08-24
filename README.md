@@ -27,7 +27,7 @@ Technologies used in the project:
 
 This project is licensed under the MIT license.
 
-<h2 💻 Computer requirements</h2>
+<h2>💻 Computer requirements</h2>
 
 
 <h2>💖 Like our work?</h2>
