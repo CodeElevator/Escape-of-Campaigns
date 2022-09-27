@@ -38,8 +38,8 @@ Processor: Intel Pentium 4 2.00GHz
 Recommended specs:
 
 Operating System: Ubuntu 20.04 or older / Windows 10 or older
-RAM: 4GB or more
-Processor: Intel Core i3/i5 or older
+RAM: 2GB or more
+Processor: Intel Core i3/i5 or newer/better
 
 <h2>💖 Like our work?</h2>
 
